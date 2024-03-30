@@ -10,12 +10,10 @@ git
 github-cli
 gnome-disk-utility
 binwalk
-firefox
 gnome-terminal
 gparted
 os-prober
 gdb
-gnome-boxes
 qt5
 qt6
 qtcreator
